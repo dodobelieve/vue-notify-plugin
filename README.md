@@ -1,6 +1,17 @@
-# ev-notify
+# vue-notify-plugin
 
-> demo for notify component
+> vue 通知插件开发示例   demo for vue notify plugin
+
+## 主要代码
+
+插件代码 https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/components/shared/notify/index.js
+
+        https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/components/shared/notify/notify.vue
+调用代码
+        https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/main.js
+
+        https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/components/HelloWorld.vue
+
 
 ## Build Setup
 
