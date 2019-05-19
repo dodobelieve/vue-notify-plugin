@@ -4,14 +4,12 @@
 
 ## 主要代码
 
-插件代码 https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/components/shared/notify/index.js
-
-        https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/components/shared/notify/notify.vue
+插件代码 
+[notify/index.js](https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/components/shared/notify/index.js)
+[notify/notify.vue](https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/components/shared/notify/notify.vue)
 调用代码
-        https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/main.js
-
-        https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/components/HelloWorld.vue
-
+[main.js](https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/main.js)
+[HelloWorld.vue](https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/components/HelloWorld.vue)
 
 ## Build Setup
 
