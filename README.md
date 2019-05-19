@@ -5,15 +5,13 @@
 ## 主要代码
 
 插件代码  
-``` bash
 [notify/index.js](https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/components/shared/notify/index.js)  
 [notify/notify.vue](https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/components/shared/notify/notify.vue)  
-```
+
 调用代码  
-``` bash
 [main.js](https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/main.js)  
 [HelloWorld.vue](https://github.com/dodobelieve/vue-notify-plugin/blob/master/src/components/HelloWorld.vue)  
-```
+
 
 ## Build Setup
 
