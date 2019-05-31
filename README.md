@@ -2,6 +2,10 @@
 
 > vue 通知插件开发示例   demo for vue notify plugin
 
+## 演示地址  
+[https://dodobelieve.github.io/vue-notify-plugin](https://dodobelieve.github.io/vue-notify-plugin)    
+
+
 ## 主要代码
 
 插件代码  

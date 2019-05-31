@@ -1,14 +1,13 @@
 <template>
   <div class="hello">
     <h1>{{ msg }}</h1>
-    <button v-on:click="showNotify">show notify</button>
+    <br>
+    <button v-on:click="showNotify">click here to show notify</button>
   </div>
 </template>
 
 <script>
 export default {
-  /* eslint-disable */
-
   name: "HelloWorld",
   data() {
     return {

@@ -4,7 +4,6 @@
 
 <script type="text/babel">
 export default {
-  /* eslint-disable */
   data() {
     return {
       classes: ""
@@ -28,12 +27,12 @@ export default {
 <style scoped>
 .yd-notify {
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  right: 0;
+  top: 50px;
+  width: 300px;
+  right: 20px;
   background-color: rgba(40, 40, 40, 0.85);
   line-height: 14.000000000000002px;
+  border-radius: 10px;
   font-size: 13px;
   color: #fff;
   padding: 20px 12px 15px;

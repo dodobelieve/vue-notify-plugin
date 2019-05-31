@@ -1,6 +1,6 @@
 import Vue from 'vue'
 import baseModal from './notify.vue'
-/* eslint-disable */
+
 const NotifyConstructor = Vue.extend(baseModal);
 const instance = new NotifyConstructor({
     el: document.createElement('div')
@@ -36,7 +36,6 @@ NotifyConstructor.prototype.clickNotify = function () {
 const Notify = {};
 
 Notify.install = function (Vue) {
-    /* eslint-disable */
 
     Vue.prototype.$notify = function (options) {
 
